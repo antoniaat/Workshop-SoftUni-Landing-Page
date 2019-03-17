@@ -4,7 +4,7 @@ The workshop is part of the “JavaScript Advanced” course @ SoftUni.
 ----
 
 ## HTML, CSS and JavaScript Code
-You are given the following HTML and CSS and your page should look like the screenshots in the given resources.
+You are given the following HTML and CSS and your page should look like the screenshots in the given resources. The workshop goal is to show how to integrate different jQuery plugins into a project.
  
 You can use the skeleton and upgrade it with **jQuery plugins** of your choice. Here is what we suggest.
 
