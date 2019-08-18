@@ -1,6 +1,6 @@
 # Workshop - SoftUni Landing Page
 The workshop is part of the “JavaScript Advanced” course @ SoftUni. 
-
+Video from the lecture [here](https://www.youtube.com/watch?time_continue=9&v=dOcZc5rj0Bc)
 ----
 
 ## HTML, CSS and JavaScript Code
